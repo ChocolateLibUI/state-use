@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/ChocolateLibUI/state-use#readme",
   "dependencies": {
-    "@chocolatelib/state": "^0.1.2",
+    "@chocolatelib/state": "^0.1.4",
     "@chocolatelib/result": "^0.0.4"
   }
 }
